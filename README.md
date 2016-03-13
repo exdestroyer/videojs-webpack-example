@@ -3,6 +3,8 @@
 This projects uses the development branches of video.js so it can be integrated within webpack.
 The awesomeness comes with ES6 rewriting of video.js
 
+:warning: Beware though, it only works with the development branches and a fix by me. Check the submodules remote url.
+
 ## Setup
 
 1. Clone the project
