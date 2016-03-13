@@ -1,0 +1,1 @@
+exclude = "{$exclude,vendor,node_modules, web_modules}"
