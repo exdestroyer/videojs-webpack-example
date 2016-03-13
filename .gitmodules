@@ -1,0 +1,9 @@
+[submodule "web_modules/videojs-contrib-media-sources"]
+	path = web_modules/videojs-contrib-media-sources
+	url = https://github.com/hallelujah/videojs-contrib-media-sources
+[submodule "web_modules/videojs-contrib-hls"]
+	path = web_modules/videojs-contrib-hls
+	url = https://github.com/videojs/videojs-contrib-hls
+[submodule "web_modules/video.js"]
+	path = web_modules/video.js
+	url = https://github.com/videojs/video.js
