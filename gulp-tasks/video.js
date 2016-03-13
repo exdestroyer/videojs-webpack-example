@@ -21,4 +21,4 @@ gulp.task("videojs-media-sources:install", function(){
   .pipe(install({ignoreScripts: true}))
 });
 
-gulp.task("videojs:all", ["videojs:install", "videojs-hls:install", "videojs-media-sources:install"]);
+gulp.task("videojs:install-all", ["videojs:install", "videojs-hls:install", "videojs-media-sources:install"]);
